@@ -59,7 +59,7 @@ pokemon-explorer/
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/lucasrebl/Pokédex.git
+git clone https://github.com/lucasrebl/pokedex.git
 cd pokemon-explorer
 ```
 
